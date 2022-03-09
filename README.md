@@ -1,5 +1,6 @@
 # FinalEx
-
+Final project of ComputerCommunication Networking Course, written by Batel Cohen & Guy Azulay
+https://github.com/GuyAzoulay
 
 # Please watch our video!
 
